@@ -1,0 +1,32 @@
+Body {
+  margin: 0;
+}
+button {
+  color: white;
+  background-color: black;
+  padding: 5px;
+  margin: 5px;
+  width: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+input {
+  width: 400px;
+  height: 20px;
+  padding: 4px;
+}
+
+.box2 {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  
+}
